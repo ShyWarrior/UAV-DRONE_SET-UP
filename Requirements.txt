@@ -1,0 +1,8 @@
+1.Fibre Frame
+
+    The frame is important because it is where to put the Other Components of Multicopter . 
+    For this purpose there are various kinds of materials available such as PCBs Fiber , Aluminum , Glass Fiber , Carbon , even some made of wood .
+
+2.Metallic Rods
+
+    For constructing wings of Multi copter.Each wing should be cut with precision of equal lengths so as to ensure Centre Of Gravity.
