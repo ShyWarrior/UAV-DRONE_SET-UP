@@ -1,8 +1,20 @@
 1.Fibre Frame
-
     The frame is important because it is where to put the Other Components of Multicopter . 
-    For this purpose there are various kinds of materials available such as PCBs Fiber , Aluminum , Glass Fiber , Carbon , even some made of wood .
+    For this purpose there are various kinds of materials available such as PCBs Fiber , Aluminum , Glass Fiber , Carbon , even some made     of wood .
 
 2.Metallic Rods
-
-    For constructing wings of Multi copter.Each wing should be cut with precision of equal lengths so as to ensure Centre Of Gravity.
+    For constructing wings of Multi copter.Each wing should be cut with precision of equal lengths so as to ensure Centre Of Gravity           balance.
+    
+3.ESC (Electronic Speed Controls)
+    It is a component that works to set each motor's rotation speed . We need four pieces of ESC to connected to each of the four motors.
+    The ESC is also connected to the battery as a power source via a socket or via power distribution board first. The level of accuracy       of motor rotation is very important to maintain the stability of quadcopter , so use the appropriate and qualified ESC(30A) .
+    
+4.Motor OR Rotor
+    
+    
+5.Flight Controller
+    This is the central component of a Quadcopter , in the board Flight Controller on duty there gyroscope sensor for determining the         orientation of motion and accelerometer sensor that reads the speed and slope of the quadcopter .
+    
+6.PCB Board,Etching material and Solder wire
+   
+7.Radio Transmitter Dan Receiver(also called Remote Controller)
